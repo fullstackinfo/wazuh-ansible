@@ -47,7 +47,8 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 
-- None
+- Fix needrestart task for debian in the dashboard role ([#2087](https://github.com/wazuh/wazuh-ansible/pull/2087))
+- Wazuh indexer idempotency fix ([#2058](https://github.com/wazuh/wazuh-ansible/pull/2058))
 
 ### Deleted
 
